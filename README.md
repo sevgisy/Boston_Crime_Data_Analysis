@@ -75,6 +75,6 @@ In this section, I will try to find answers to my first and second guiding quest
  -Neural Networks<br>
  
  <a id = "6"></a><br>
- #Conclusion
+ # Conclusion
  You can find details and codes of the project in the .ipynb file. This project has come across an unbalanced data problem, so the results of machine learning algorithms have not enough to success. So, I will update this project while I learn new technics for solving this problem.
 
